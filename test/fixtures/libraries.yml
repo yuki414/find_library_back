@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  systemid: MyString
+  libid: 1
+  latitude: 1.5
+  logintude: 1.5
+  category: MyString
+  libkey: MyString
+
+two:
+  name: MyString
+  systemid: MyString
+  libid: 1
+  latitude: 1.5
+  logintude: 1.5
+  category: MyString
+  libkey: MyString
